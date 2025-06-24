@@ -1,0 +1,5 @@
+name: geo-drawer
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+prefix: /home/bariso/miniconda3/envs/geo-drawer
